@@ -5,6 +5,9 @@
     "*.js": "javascriptreact",
     "*.scss": "scss",
     "vector": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "ios": "cpp",
+    "tuple": "cpp",
+    "xstring": "cpp"
   }
 }
