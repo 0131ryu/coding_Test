@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef long long ll;
+typedef long long int ll;
 int n;
 string s;
 char a[101][101];
@@ -39,7 +39,7 @@ int main()
         cin >> s;
         for (int j = 0; j < n; j++)
         {
-            a[i][j] = s[i];
+            a[i][j] = s[j];
         }
     }
     cout << quard(0, 0, n) << '\n';
