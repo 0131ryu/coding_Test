@@ -1,9 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
-string a;
+typedef int i;
+string b;
 int main()
 {
-    cin >> a;
+    i a = 1;
     cout << a << '\n';
+    cin >> b;
+    cout << b << '\n';
     return 0;
 }

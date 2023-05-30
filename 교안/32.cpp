@@ -1,9 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef int i;
+char b()
+{
+    char a = 'a';
+    return a;
+}
 int main()
 {
-    i a = 1;
+    char a = b();
     cout << a << '\n';
     return 0;
 }
