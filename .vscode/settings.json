@@ -15,6 +15,7 @@
     "type_traits": "cpp",
     "xutility": "cpp",
     "queue": "cpp",
-    "deque": "cpp"
+    "deque": "cpp",
+    "*.tcc": "cpp"
   }
 }
